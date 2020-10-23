@@ -18,7 +18,8 @@ page, display the number of times visited. (Use cookies)
 pages. Each page should have a page total. The third page should display a bill, which consists
 of a page total of whatever the purchase has been done and print the total. (Use HttpSession) 
 
-To run simply install gradle to path and run on the folder using cmd command- gradlew.bat clean build :1:appRun
+To run simply install gradle to path and run on the folder using cmd command- 
+gradlew.bat clean build :1:appRun
 
 (Replace 1 with 2,3,4 for other questions)
 
